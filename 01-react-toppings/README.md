@@ -1,4 +1,4 @@
-# Pizza Menu 🍕
+# React Toppings 🍕
 
 A simple pizza menu built with React, displaying different pizzas with their ingredients and prices. Sold-out pizzas are visually marked.
 
